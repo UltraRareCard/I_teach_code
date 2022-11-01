@@ -1,0 +1,50 @@
+approach - подход
+recipient - получатель
+nonce - одноразовое число
+features - особенности
+definition - определение
+attempt - попытка
+counterpart - аналог
+shift - сдвиг (смена)
+assembly - сборка
+Addition - сложение
+reference - ссылка
+notation - обозначение
+caveat - предостережение
+assertion - утверждение (заявление)
+Underscore - подчёркивание
+sequence - последовательность
+units - единицы
+Exponentiation - возведение в степень
+alias - псевдоним
+exponent - показатель степени (экспонента)
+modulo - модуль
+indentation - отступ
+truncating - усечение(обрезание)
+brackets - скобки
+division - деление (разделенеие)
+statement - утверждение (оператор)
+refund - возврат средств
+layout - схема (расположение)
+joint - соединение (как сустав)
+computation - вычисление (расчёт)
+multiplication - умножение
+variable - переменная
+padding - заполнение
+convenience - удобство
+consequence - последствие
+topmost - самый верхний
+expansion - расширение
+signature - подпись
+declarations - объявление
+assignment - задание
+distinction - различие
+obstacle - препятствие
+expressions - выражения
+checksum - контрольная сумма
+exceptions - исключения
+originator - инициатор (создатель)
+behaviour - поведение
+inheritance - наследование
+complement - дополнение
+comparison - сравнение

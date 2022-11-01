@@ -1,0 +1,50 @@
+optionally - необязательно
+optional - по выбору (необязательный)
+to precede - предшествовать
+to examine - изучить (исследовать)
+to reveal - показать (раскрыть)
+warranty - гарантия
+to/a flow - течь(поток)
+loop - петля (цикл)
+to/a branch - разветвляться (ветвь)
+whether - будь то
+to/a clutter - создавать суматоху (беспорядок)
+to interrupt - прерывать
+innermost - сокровенный (самый внутренний)
+to/a label - пометить (этикетка)
+to cease - прекратить (перестать)
+to count down - считать в обратном порядке
+prone - склонный
+beyond - вне (за пределами)
+sizable - значительный (немалый)
+implications of/for - последствия
+to relate - относиться
+to violate - нарушать
+naturally - естественно
+to affect - влиять
+brief - краткий
+to refer - упомянуть
+pile - куча(груда)
+boilerplate - шаблонный
+rather - скорее
+literal - литерал (или буквальный)
+to pop off - выскочить
+trivial - тривиальный (банальный)
+colon - двоеточие
+mutate - мутировать
+blob - капля
+content - содержание
+pretty - довольно
+anymore - больше (больше не)
+indeed - верно!
+quite - совсем (довольно)
+shallow - поверхностный (неглубокий)
+successive - последовательный
+_privacy_ - Конфиденциальность
+metaphor - метафора
+to operate - действовать (работать/ управлять)
+outer - внешний
+to expose - разоблачать (раскрыть)
+respect to - в отношении
+to consider - рассмотреть (учитывать)
+case-by-case - От случая к случаю

@@ -1,0 +1,50 @@
+impose - наложить(навязать)
+occur - происходить
+figure out - вычислять
+assume - предположить, что...
+obtain - получить
+discourage - препятствовать (не рекомендуется)
+track - отслеживать
+carry out - проводить (выполнять)
+execute - выполнять
+commit - зафиксировать
+make up - составлять
+accomplish - выполнить (достичь)
+accompany - сопровождать
+abort - прервать (отменить)
+interpreted - интерпретируемый
+Hexadecimal - шестнадцатеричный
+temporary - временный
+nested - вложенный
+brute - грубый
+raw - сырой (необработанный)
+pure - чистый
+particular - особый (конкретный)
+curly - кудрявый (фигурные (кудрявые скобки типа) )
+intermediate - промежуточный
+rapid - быстрый
+decimal - десятичный
+extensive - обширный
+naive - наивный
+handy - удобный
+contiguous - смежный
+Bitwise - побитовый
+flex - гибкий
+compatible - совместимый
+bound - связанный
+proper - правильный (соответствующий)
+fractional - дробный
+initial - первоначальный
+arbitrary - произвольный
+subsequent - последующий
+persistent - постоянный
+gradual - постепенный
+Similar - похожий
+direct - прямой
+external - внешний
+internal - внутренний
+inner - внутренний
+straightforward - прямой
+consistent - последовательный
+self-contained - автономный(самодостаточный)
+comprehensive - всесторонний (исчерпывающий)

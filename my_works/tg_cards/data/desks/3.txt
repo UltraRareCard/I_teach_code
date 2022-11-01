@@ -1,0 +1,50 @@
+encode - кодировать
+compute - вычислять
+embedding - встраивать
+instantiate - создать экземпляр
+bypass - обойти (обход)
+perform - выполнить
+To handle - обрабатывать
+to pass - передать
+wrap - обернуть
+adhere - придерживаться
+derive - вывести (извлечь)
+design - разрабатывать
+remain - оставаться
+overcome - преодолеть
+determine - определить
+correspond - соответствовать
+submit - отправить (разместить)
+express - выражать
+mention - упомянуть
+hook - зацепиться
+restrict - ограничивать
+link - связать
+contradict - противоречить
+bund - объединить
+govern - управлять
+evaluate - оценивать
+accustom - привыкнуть
+underlie - лежать в основе
+inspect - проверять
+expose - предоставлять (разоблачать)
+assign - присвоить (назначить)
+specify - указать
+mark - пометить
+treat - обращаться
+enumerate - перечислять
+reside - проживать
+revert - возвращать
+lead - привести
+coincide - совпадать
+alter - изменять
+imply - подразумевать
+define - определять
+retrieve - извлечь(получить)
+omit - пропустить(опустить)
+emit - испускать
+comprise - составлять (включает)
+tamper - вмешиваться (искажать)
+declare - объявить
+deplete - истощать (исчерпывать)
+belong - принадлежать

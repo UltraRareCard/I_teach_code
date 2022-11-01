@@ -1,0 +1,50 @@
+query - запрос
+access - доступ
+match - совпадение (соответствие)
+matter - вопрос(дело)
+restrictions - ограничения
+scope - область, объем, сфера
+boundaries - границы
+database - база данных
+point - точка (момент)
+issue - выпуск
+quotes - ковычки
+effort - усилие
+Record - запись
+require - требование
+subtract - вычитание
+essence - суть (сущность)
+overflow - переполнение
+representation - представление
+conversion - преобразование
+supply - поставка (предложение)
+tip - кончик (или совет)
+gap - промежуток(зазор)
+incentive - стимул
+peculiarity - особенность
+Comma - запятая
+precision - точность
+clogging - засорение
+distribute - распространять
+reject - отклонять
+fallback - отступать
+abuse - злоупотреблять
+view - посмотреть
+satisfy - удовлетворить
+convert - конвертировать
+allocate - выделить (распределить)
+refer - ссылаться (относиться)
+adjust - настроить (отрегулировать)
+suppose - предполагать
+implement - реализовать
+involve - вовлекать (включать в себя)
+descript - описать
+retain - сохранить
+lead - вести
+split - разделить
+reset - перезагрузить
+produce - производить
+amend - изменить (внести поправки)
+denote - обозначать
+apply - применять
+incentivize - стимулировать

@@ -1,0 +1,50 @@
+compatible - совместимый
+to fetch - принести(получить)
+to/a grab - схватить(захват)
+thread - нить(поток)
+to/a seed - сеять(семя)
+inclusive - включительно
+neat - аккуратный(приятный)
+to/a encounter - сталкиваться(столкновение)
+inference - вывод(заключение)
+to infer - делать вывод
+elsewhere - в другом месте
+to treat - обращаться(обрабатывать)
+onward - вперёд(далее)
+indent - отступ
+satiable - сытный
+insatiable - ненасытный(жадный)
+to refine - уточнить(усовершенстовать)
+to put - поместить(положить)
+catchall - универсальный
+to tweak - подправить
+ownership - владение
+conventionals - условности
+to nudge - подтолкнуть
+to encourage - поощрять
+to/a favor - отдавать предпочтение (услуга)
+to opt out - отказаться (уклоняться)
+to frustrate - расстроить
+after the fact - постфактум
+to convey - передавать
+intent - намерение
+Ultimate - окончательный
+convention - соглашение
+validation - проверка
+valid - действительный
+hardcoded - жесткоЗакодированный
+to maintain - поддержать
+maintainter - сопровождающий
+to spare - жалеть (щадить)
+compound - сложный (составной)
+built-in - встроенный
+to matter - иметь значение
+Saturate - насыщенность
+capable - способный
+respective - соответствующий
+implicitly - неявно
+square - квадратный
+concise - лаконичный
+prevalent - распространённый
+concrete - бетон (или конкретный)
+to tend - иметь тенденцию

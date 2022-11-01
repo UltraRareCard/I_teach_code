@@ -1,0 +1,645 @@
+approach - подход
+recipient - получатель
+nonce - одноразовое число
+features - особенности
+definition - определение
+attempt - попытка
+counterpart - аналог
+shift - сдвиг (смена)
+assembly - сборка
+Addition - сложение
+reference - ссылка
+notation - обозначение
+caveat - предостережение
+assertion - утверждение (заявление)
+Underscore - подчёркивание
+sequence - последовательность
+units - единицы
+Exponentiation - возведение в степень
+alias - псевдоним
+exponent - показатель степени (экспонента)
+modulo - модуль
+indentation - отступ
+truncating - усечение(обрезание)
+brackets - скобки
+division - деление (разделенеие)
+statement - утверждение (оператор)
+refund - возврат средств
+layout - схема (расположение)
+joint - соединение (как сустав)
+computation - вычисление (расчёт)
+multiplication - умножение
+variable - переменная
+padding - заполнение
+convenience - удобство
+consequence - последствие
+topmost - самый верхний
+expansion - расширение
+signature - подпись
+declarations - объявление
+assignment - задание
+distinction - различие
+obstacle - препятствие
+expressions - выражения
+checksum - контрольная сумма
+exceptions - исключения
+originator - инициатор (создатель)
+behaviour - поведение
+inheritance - наследование
+complement - дополнение
+comparison - сравнение
+query - запрос
+access - доступ
+match - совпадение (соответствие)
+matter - вопрос(дело)
+restrictions - ограничения
+scope - область, объем, сфера
+boundaries - границы
+database - база данных
+point - точка (момент)
+issue - выпуск
+quotes - ковычки
+effort - усилие
+Record - запись
+require - требование
+subtract - вычитание
+essence - суть (сущность)
+overflow - переполнение
+representation - представление
+conversion - преобразование
+supply - поставка (предложение)
+tip - кончик (или совет)
+gap - промежуток(зазор)
+incentive - стимул
+peculiarity - особенность
+Comma - запятая
+precision - точность
+clogging - засорение
+distribute - распространять
+reject - отклонять
+fallback - отступать
+abuse - злоупотреблять
+view - посмотреть
+satisfy - удовлетворить
+convert - конвертировать
+allocate - выделить (распределить)
+refer - ссылаться (относиться)
+adjust - настроить (отрегулировать)
+suppose - предполагать
+implement - реализовать
+involve - вовлекать (включать в себя)
+descript - описать
+retain - сохранить
+lead - вести
+split - разделить
+reset - перезагрузить
+produce - производить
+amend - изменить (внести поправки)
+denote - обозначать
+apply - применять
+incentivize - стимулировать
+encode - кодировать
+compute - вычислять
+embedding - встраивать
+instantiate - создать экземпляр
+bypass - обойти (обход)
+perform - выполнить
+To handle - обрабатывать
+to pass - передать
+wrap - обернуть
+adhere - придерживаться
+derive - вывести (извлечь)
+design - разрабатывать
+remain - оставаться
+overcome - преодолеть
+determine - определить
+correspond - соответствовать
+submit - отправить (разместить)
+express - выражать
+mention - упомянуть
+hook - зацепиться
+restrict - ограничивать
+link - связать
+contradict - противоречить
+bund - объединить
+govern - управлять
+evaluate - оценивать
+accustom - привыкнуть
+underlie - лежать в основе
+inspect - проверять
+expose - предоставлять (разоблачать)
+assign - присвоить (назначить)
+specify - указать
+mark - пометить
+treat - обращаться
+enumerate - перечислять
+reside - проживать
+revert - возвращать
+lead - привести
+coincide - совпадать
+alter - изменять
+imply - подразумевать
+define - определять
+retrieve - извлечь(получить)
+omit - пропустить(опустить)
+emit - испускать
+comprise - составлять (включает)
+tamper - вмешиваться (искажать)
+declare - объявить
+deplete - истощать (исчерпывать)
+belong - принадлежать
+impose - наложить(навязать)
+occur - происходить
+figure out - вычислять
+assume - предположить, что...
+obtain - получить
+discourage - препятствовать (не рекомендуется)
+track - отслеживать
+carry out - проводить (выполнять)
+execute - выполнять
+commit - зафиксировать
+make up - составлять
+accomplish - выполнить (достичь)
+accompany - сопровождать
+abort - прервать (отменить)
+interpreted - интерпретируемый
+Hexadecimal - шестнадцатеричный
+temporary - временный
+nested - вложенный
+brute - грубый
+raw - сырой (необработанный)
+pure - чистый
+particular - особый (конкретный)
+curly - кудрявый (фигурные (кудрявые скобки типа) )
+intermediate - промежуточный
+rapid - быстрый
+decimal - десятичный
+extensive - обширный
+naive - наивный
+handy - удобный
+contiguous - смежный
+Bitwise - побитовый
+flex - гибкий
+compatible - совместимый
+bound - связанный
+proper - правильный (соответствующий)
+fractional - дробный
+initial - первоначальный
+arbitrary - произвольный
+subsequent - последующий
+persistent - постоянный
+gradual - постепенный
+Similar - похожий
+direct - прямой
+external - внешний
+internal - внутренний
+inner - внутренний
+straightforward - прямой
+consistent - последовательный
+self-contained - автономный(самодостаточный)
+comprehensive - всесторонний (исчерпывающий)
+noteworthy - примечательный ( заслуживающий внимания)
+complicated - сложный
+trial - пробный (или проба)
+tedious - утомительный (скучный)
+Dangling - висячий
+simultaneous - одновременный
+considerable - значительный
+dimensional - пространственный
+mundane - приземленная
+complex - сложный
+essential - необходимый
+eventually - в конце концов ( в итоге)
+In order - чтобы
+Perhaps - возможно
+towards - по отношению к
+via - через (с помощью)
+although - хотя (несмотря на то что)
+entire - весь(полностью)
+Either ... or - или ... или, либо... либо - 
+comparatively - в сравнении (относительно)
+rather - довольно
+Unlike - в отличие
+Disregarding - не обращая внимания на
+newly - вновь (или недавно)
+apart from - кроме
+afterwards - впоследствии (после)
+In comparison - в сравнении
+otherwise - иначе
+above - выше
+As opposed - в отличие от
+advance - заранее
+thus - таким образом
+below - ниже
+Neither ... nor - ни ... ни - 
+whereas - в то время как
+according - в соответствии
+explicitly - в явном виде
+unconditionally - безусловно
+roughly - приблизительно (примерно)
+Furthermore - более того
+thereby - таким образом
+Regardless - независимо от того, ...
+in depth - подробно(тщательно)
+several - несколько
+paperback - книга в мягкой обложке
+an empowerment - расширение возможностей
+confidence - уверенность
+to deal - иметь дело (сделка)
+concurrency - параллелизм
+realm - область(сфера)
+arcane - тайный
+to/a select - выбирать (избранный)
+devote - уделять (посвящать)
+infamous - позорны (печально известный)
+pitfall - подводные камни(ловушки)
+caution - осторожность
+lest - чтобы не
+to eliminate - устранять (исключать)
+to polish - полировать
+custom - обычай
+the fine point - тонкости
+toolchain - набор инструментов
+fickle - непостоянный
+towards - в направлении
+to rely - полагаться
+reliable - надёжный
+term - условие (срок)
+to guide - вести(руководить)
+relative - относительный
+to tackle - заняться
+accident - случайность
+to introduce - вводить
+vulnerability - уязвимость
+to transfer - переводить
+to embrace - обхватывать
+intend - намерение
+odd - нечётный (странный)
+odds - шансы
+at odds - в разногласиях
+Through - через
+throughout - по всему (через)
+capacity - мощность (ёмкость, сопосбность)
+hassle - хлопоты
+to prove to be - оказаться
+to collaborate - сотрудничать
+prone - склонный
+subtle - тонкий
+elusive - неуловимый
+alongside - рядом (бок о бок, вместе)
+to chase - преследовать
+contemporary - современный
+to crave - жаждать
+to ensure - обеспечить (гарантировать)
+brittle - хрупкий
+legacy - наследие
+to strive - стремиться
+manual - ручной (руководство)
+to/a endeavor - стремление (стараться)
+merely - просто
+stakeholders - заинтересованные стороны
+stakeholder - акционер
+Overall - в общем (общий)
+trade-off - копромисс
+decade - десятилетие
+broad - широкий
+serve - обслуживать
+delve - копаться(углубляться)
+hands-on - практический
+right away - немедленно(сразу)
+meticulous - дотошный (тщательный)
+subset - подмножество
+within - в пределах
+smorgasbord - шведский стол
+trait - черта(лица)
+appendices - приложения(которые в конце статей)
+derivable - производная
+to confuse - путать (сбиться с толку)
+to distinguish - отличить
+slight - незначительный
+prompt - незамедлительный
+to prompt - подсказать
+workload - нагрузка (объём работы)
+to commit - совершить (фиксировать)
+familiar - знакомый
+demand - требование
+degree - степень
+to enable - включить
+parentheses - круглые скобки
+semicolon - точка с запятой
+to handle - справиться (обращаться)
+vast - огромный (обширный)
+sparse - редкий (разреженный)
+to indicate - указывать (показывать)
+to lengthen - удлинить
+repeatedly - неоднократно
+benchmark - ориентир (тест)
+intricate - сложный(замысловатый)
+to compose - сочинять (составлять)
+mutable - изменчивый
+instance - пример(экземпляр)
+to suppress - подавлять
+to recover - восстанавливаться
+Aside from - помимо
+placeholder - заполнитель
+pincer - клещи (краба например)
+crate - ящик
+to intend - намереваться
+to/a shine - сиять(блеск)
+beneath - под
+shorthand - сокращение
+compatible - совместимый
+to fetch - принести(получить)
+to/a grab - схватить(захват)
+thread - нить(поток)
+to/a seed - сеять(семя)
+inclusive - включительно
+neat - аккуратный(приятный)
+to/a encounter - сталкиваться(столкновение)
+inference - вывод(заключение)
+to infer - делать вывод
+elsewhere - в другом месте
+to treat - обращаться(обрабатывать)
+onward - вперёд(далее)
+indent - отступ
+satiable - сытный
+insatiable - ненасытный(жадный)
+to refine - уточнить(усовершенстовать)
+to put - поместить(положить)
+catchall - универсальный
+to tweak - подправить
+ownership - владение
+conventionals - условности
+to nudge - подтолкнуть
+to encourage - поощрять
+to/a favor - отдавать предпочтение (услуга)
+to opt out - отказаться (уклоняться)
+to frustrate - расстроить
+after the fact - постфактум
+to convey - передавать
+intent - намерение
+Ultimate - окончательный
+convention - соглашение
+validation - проверка
+valid - действительный
+hardcoded - жесткоЗакодированный
+to maintain - поддержать
+maintainter - сопровождающий
+to spare - жалеть (щадить)
+compound - сложный (составной)
+built-in - встроенный
+to matter - иметь значение
+Saturate - насыщенность
+capable - способный
+respective - соответствующий
+implicitly - неявно
+square - квадратный
+concise - лаконичный
+prevalent - распространённый
+concrete - бетон (или конкретный)
+to tend - иметь тенденцию
+optionally - необязательно
+optional - по выбору (необязательный)
+to precede - предшествовать
+to examine - изучить (исследовать)
+to reveal - показать (раскрыть)
+warranty - гарантия
+to/a flow - течь(поток)
+loop - петля (цикл)
+to/a branch - разветвляться (ветвь)
+whether - будь то
+to/a clutter - создавать суматоху (беспорядок)
+to interrupt - прерывать
+innermost - сокровенный (самый внутренний)
+to/a label - пометить (этикетка)
+to cease - прекратить (перестать)
+to count down - считать в обратном порядке
+prone - склонный
+beyond - вне (за пределами)
+sizable - значительный (немалый)
+implications of/for - последствия
+to relate - относиться
+to violate - нарушать
+naturally - естественно
+to affect - влиять
+brief - краткий
+to refer - упомянуть
+pile - куча(груда)
+boilerplate - шаблонный
+rather - скорее
+literal - литерал (или буквальный)
+to pop off - выскочить
+trivial - тривиальный (банальный)
+colon - двоеточие
+mutate - мутировать
+blob - капля
+content - содержание
+pretty - довольно
+anymore - больше (больше не)
+indeed - верно!
+quite - совсем (довольно)
+shallow - поверхностный (неглубокий)
+successive - последовательный
+_privacy_ - Конфиденциальность
+metaphor - метафора
+to operate - действовать (работать/ управлять)
+outer - внешний
+to expose - разоблачать (раскрыть)
+respect to - в отношении
+to consider - рассмотреть (учитывать)
+case-by-case - От случая к случаю
+to seem - казаться
+repetitive - повторяющийся
+to emerge - появиться
+to distinguish - выделить (различить)
+to pull - тянуть
+to ship - отправить (транспортировать)
+to merge - объединить (слить)
+impact - влияние (воздействие)
+to shrink - сокращаться (сжиматься)
+to appropriate - присваивать (соответствующий)
+an angle - угол
+occasionally - иногда (время от времени)
+circumstance - обстоятельство
+spreadsheet - электронная таблица
+relevant - актуальный
+apparent - очевидный
+goodies - лакомство (полезности)
+to insert - вставлять
+portion - часть (доля)
+homogeneous - однородный (гомогенный)
+heterogeneous - неоднородный (гетерогенный)
+to gather - собирать
+denial - отрицание (отказ)
+consonant - согласный
+employ - нанимать (использовать)
+employee - работник
+department - отделение (отдел)
+to acknowledge - признавать
+robust - крепкий (прочный)
+to wind - намотать
+to unwind - размотать (отдохнуть)
+to invoke - вызывать (призывать духов и тд)
+to/a backtrace - проследить (обратный след)
+to respond - реагировать (ответить)
+to terminate - прекратить (завершить)
+verbose - подробный
+Similarly - аналогично
+to propagate - распространять
+to oppose - быть против
+malformed - уродливый (некорректный)
+to violate - нарушать
+stand-in - замена (дублёр)
+curve - кривая
+tax - налог
+duty - долг / обазанность / пошлина
+shortage - нехватка / дефицит
+versatile - универсальный / многофункциональный
+maintenance - тех обслуживание
+thoroughly - тщательно
+advanced - продвинутый
+consecutive - последовательный
+upon - на/по/после (любой предлог вай-то)
+malicious - злонамеренный
+vendor - продавец (торговец)
+reusable - многоразовый
+reliance - опора (уверенность / доверие)
+coupled - соединённый ( в сочетании)
+opaque - непрозрачный
+denominated in - выраженный в
+transparent - прозрачный
+to/ peer - вглядываться(равный)
+to hamper - мешать (тормозить)
+to head to - отправиться в
+to serve - обслуживать (служить)
+identity - личность
+entity - организация
+to/a dispute - спорить (оспаривать) / спор
+to misuse - злоупотреблять
+overhead - накладные расходы
+to/a scale - масштабировать (масштаб)
+integrity - честность (неприкосновенность)
+to aspires - стремиться
+preliminary - предварительный
+envelope - конверт (оболочка)
+Scalability - масштабируемость
+to adopt - усыновить (принять)
+to/a fracture - ломать (перелом/ разрыв)
+censor - цензура
+counter - счетчик
+to/a grant - предоставлять (грант / субсидия)
+custody - хранение ( под стражей)
+adversary - противник (враг)
+vital - жизненно важный
+accordance with - в соответствии
+to pad - дополнить
+batch - пакет(группа)
+fraud - мошенничество (обман)
+legitimacy - законность
+to underpin - поддерживать
+sophisticated - сложный (утончённый)
+rigorous - тщательный (строгий)
+aware - осведомленный
+overhauling - пересмотр (капитальный ремонт)
+preferentially - преимущественно
+to outbid - перебить ставку
+hostile - враждебный
+seamlessly - плавно
+magnitude - величина
+to/a slash - сокращать(сокращение)
+to redress - возмещение (исправление)
+feasible - осуществимый (достижимый)
+sustainable - стабильный
+to/grasp - понять (понимание)
+monetary - денежный
+to elaborate - разрабатывать
+to transmit - передавать
+scarce - скудный (дефицитный, едва ли)
+interconnected - взаимосвязанный
+versa - наоборот
+to abandon - отказываться от (бросать)
+to reclaim - вернуть (исправлять, восстанавливаться)
+whom - кого, кому, которому
+susceptible - восприимчивый (чувствительный)
+to owe - быть должным ( должен)
+to opt - выбирать
+gunpoint - дуло пистолета
+divergence - расхождение
+significant - значительный (существенный)
+backward - назад (обратно)
+urgency - срочность
+precursor - предшественник
+fungibility - взаимозаменяемость
+drawback - недостаток
+to/a cipher - шифровать (шифр)
+prominent - видный (известный)
+Threshold - порог
+to/a breakthrough - прорвать (прорыв)
+leakage - утечка
+to withstand - выдерживать(противостоять)
+decrypt - расшифровать
+repudiation - отказ (отрицание)
+culprit - виновник ( преступник)
+to encompass - охватывать
+to mitigate - смягчить(уменьшить)
+to propose - предложить, выдвинуть
+an entity - организация
+crucial - важнейший(ключевой)
+to pave - проложить
+vital - жизненно важный
+whereby - таким образом(посредством чего)
+Within - в пределах
+to leverage - использовать
+a specific - особенность(подробность)
+to attach - прикреплять
+to embrace - обхватывать (обнимать)
+Notably - примечательно
+to deploy - развёртывать
+myriad - мириад (неисчесляемое множество)
+feasible  - выполнимый (осуществимый)
+to collide - столкнуться
+a stamp - отметка(печать)
+Hereby - таким образом
+assets - активы, ресурсы
+to leverage - использовать
+to maintain - поддерживать, сохранять
+a/to mediate - посредник/посредничать
+to transmit - передавать, транслировать
+robust - крепкий, устойчивый
+to churn - взбивать, взбалтывать
+frequent - частый, постоянный
+Likewise - точно так же 
+to establish - устанавливать, утверждать, учреждать
+degree - степень
+Beyond - вне, по ту сторону
+inception - зарождение, начало
+censorship - цензура
+Hence - следовательно
+intention - намерение, стремление
+malicious - злонамеренный
+fraud - мошенничество, обман
+to pend - ожидать
+to discard - отбрасывать
+renown - известный
+meticulous - тщательный, дотошный
+orphan - сирота
+to abandon - отказываться, бросать, оставлять
+stale - чёрствый, несвежий
+performance - производительность
+extinct - вымерший, угасший
+revenue - доход
+In a nutshell - в двух словах
+to undermine - подрывать, разрушать
+to recoup - окупиться, компенсировать
+yield - урожай, доходность
+indeed - действительно, в самом деле
+to grasp - понять, осознать, усвоить
+to elect - избирать, выбирать
+a spreadsheet - электронная таблица
+to facilitate - способствовать, содействовать
+clunky - неуклюжий
+to prompt - подсказка, напоминание (быстрый, незамедлительный)
+to dedicate - выделить
+a backbone - хребет, позвоночник, основа
+overlap - совпадение
+to coerce - принуждать, заставлять
